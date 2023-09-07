@@ -14,7 +14,11 @@ that included, find, insert, update, count, and pretty printing.
 In the second part, advanced queries were constructed using various operators, and the results were converted to pandas
 data frames. Lastly, aggregated queries were constructed to form a pipeline query, convert to pandas data frame and print.
 
-
+Uploading to GitHub:
+git status
+git add .
+git commit -m "msg"
+git push
 
 
 
